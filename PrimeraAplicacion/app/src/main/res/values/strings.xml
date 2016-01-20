@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Esta es mi primera Aplicación</string>
+    <string name="action_settings">Acá estaba Settings</string>
+
+    <string name="seg_actividad">Mi Segunda Actividad</string>
+    <string name="action_settings2">Settings</string>
+    <string name="mensaje_prueba">Nuevo Mensaje</string>
+    <string name="Pulsame">pulsame</string>
+</resources>
